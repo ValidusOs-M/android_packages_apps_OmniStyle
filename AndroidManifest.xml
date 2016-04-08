@@ -49,6 +49,26 @@
 				<category android:name="android.intent.category.DEFAULT" />
 			</intent-filter>
 		</activity>
+
+		<activity
+			android:name=".gzrrandom"
+			android:label="GZR (random)" >
+			<intent-filter>
+				<action android:name="org.omnirom.DaylightHeaderPack1" />
+
+				<category android:name="android.intent.category.DEFAULT" />
+			</intent-filter>
+		</activity>
+
+		<activity
+			android:name=".validusrandom"
+			android:label="Validus (random)" >
+			<intent-filter>
+				<action android:name="org.omnirom.DaylightHeaderPack1" />
+
+				<category android:name="android.intent.category.DEFAULT" />
+			</intent-filter>
+		</activity>
 	</application>
 
 </manifest>
