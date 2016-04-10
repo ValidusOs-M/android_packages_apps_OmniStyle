@@ -72,7 +72,7 @@
 		
 		<activity
 			android:name=".brushed"
-			android:label="Brushed (random)" >
+			android:label="Brushed" >
 			<intent-filter>
 				<action android:name="org.omnirom.DaylightHeaderPack1" />
 
